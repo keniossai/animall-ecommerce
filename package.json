@@ -1,5 +1,5 @@
 {
-  "name": "with-styled-components",
+  "name": "animall",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,36 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.4.1",
+    "@mui/material": "^5.4.1",
+    "@mui/styles": "^5.4.1",
+    "@paypal/react-paypal-js": "^7.6.0",
+    "@sanity/client": "^3.0.6",
+    "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.25.0",
+    "axios": "^0.26.0",
+    "bcryptjs": "^2.4.3",
+    "canvas-confetti": "^1.5.1",
+    "highlight.js": "^11.5.1",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
     "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "next-connect": "^0.12.1",
+    "next-sanity-image": "^3.2.1",
+    "notistack": "^2.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.27.1",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "stripe": "^8.209.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "eslint": "8.16.0",
